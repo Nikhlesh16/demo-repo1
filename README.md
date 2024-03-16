@@ -5,8 +5,9 @@ Some description.!!!!!!!!!!.
 By Nikhlesh Singh Mehra
 
 
-git push origin main
-git clone https...
-git add . -->for everything
-git add README --> for README
-git commit
+git push origin main   <br>
+
+git clone https...<br>
+git add . -->for everything  <br>
+git add README --> for README   <br>
+git commit  <br>
